@@ -197,6 +197,7 @@ leetcode and other platforms codes
 | [0053-maximum-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishu-reddy/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vishu-reddy/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/VishuReddy-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishu-reddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -246,6 +247,7 @@ leetcode and other platforms codes
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vishu-reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/VishuReddy-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -307,6 +309,7 @@ leetcode and other platforms codes
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/VishuReddy-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2737-row-with-maximum-ones](https://github.com/Vishu-reddy/leetcode/tree/master/2737-row-with-maximum-ones) |
