@@ -178,6 +178,7 @@ leetcode and other platforms codes
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishuReddy-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Vishu-reddy/leetcode/tree/master/2645-pass-the-pillow) |
@@ -195,6 +196,7 @@ leetcode and other platforms codes
 | [0042-trapping-rain-water](https://github.com/Vishu-reddy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VishuReddy-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vishu-reddy/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Vishu-reddy/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/VishuReddy-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -309,6 +311,7 @@ leetcode and other platforms codes
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VishuReddy-dev/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VishuReddy-dev/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
