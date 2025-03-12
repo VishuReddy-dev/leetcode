@@ -169,6 +169,7 @@ leetcode and other platforms codes
 | [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vishu-reddy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/VishuReddy-dev/leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishu-reddy/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
@@ -214,6 +215,7 @@ leetcode and other platforms codes
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vishu-reddy/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/VishuReddy-dev/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -430,4 +432,12 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0214-shortest-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishuReddy-dev/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishuReddy-dev/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
